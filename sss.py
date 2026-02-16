@@ -1,2 +1,2 @@
-print('main branch')
-print('feature branch')
+def main():
+    choice = int(input('Дверь с каким номером вы выберете?(варианты ответа: 1,2): '))
